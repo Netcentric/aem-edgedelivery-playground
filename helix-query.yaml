@@ -1,0 +1,9 @@
+indices:
+  en-gb:
+    include:
+      - /en-gb/**
+    target: /en-gb/query-index.json
+  en-us:
+    include:
+      - /en-us/**
+    target: /en-us/query-index.json

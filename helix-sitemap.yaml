@@ -1,0 +1,14 @@
+sitemaps:
+   example:
+     default: en-gb
+     languages:
+       en-gb:
+         source: /en-gb/query-index.json
+         destination: /sitemap.xml
+         hreflang: en-gb
+         alternate: /en-us/{path}
+       en-us:
+         source: /en-us/query-index.json
+         destination: /sitemap.xml
+         hreflang: en-US
+         alternate: /en-gb/{path}
