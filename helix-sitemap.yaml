@@ -6,9 +6,9 @@ sitemaps:
          source: /en-gb/query-index.json
          destination: /sitemap.xml
          hreflang: en-gb
-         alternate: /en-us/{path}
+         alternate: /en-gb/{path}
        en-us:
          source: /en-us/query-index.json
          destination: /sitemap.xml
          hreflang: en-US
-         alternate: /en-gb/{path}
+         alternate: /en-us/{path}
