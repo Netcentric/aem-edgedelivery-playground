@@ -1,9 +1,11 @@
 # Your Project's Title...
-Your project's description...
+Playground to try out AEM Edge Delivery Services. 
+
+Content can be found in [Google Drive](https://drive.google.com/drive/folders/16oIjoqz4kMSApu2TNRAqbAl5MI1fhy4c).
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-edgedelivery-playground--netcentric.aem.page/
+- Live: https://main--aem-edgedelivery-playground--netcentric.aem.live/
 
 ## Installation
 
