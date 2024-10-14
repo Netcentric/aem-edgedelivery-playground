@@ -6,7 +6,6 @@ sitemaps:
          source: /en-gb/query-index.json
          destination: /sitemap.xml
          hreflang: en-GB
-         alternate: /en-gb/{path}
          lastmod: YYYY-MM-DD
        en-us:
          source: /en-us/query-index.json
